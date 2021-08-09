@@ -1,0 +1,19 @@
+{
+    "translation": {
+        "sex": {
+            "male": "Masculino",
+            "female": "Feminino"
+        },
+        "age": "Idade",
+        "height": "Altura (cm)",
+        "weight": "Peso (kg)",
+        "activity-levels": {
+            "label": "Qual o seu nível de atividade física?",
+            "sedentary": "Sedentário",
+            "light": "Leve",
+            "moderate": "Moderado",
+            "intense": "Intenso"
+        },
+        "cta": "Calcular"
+    }
+}

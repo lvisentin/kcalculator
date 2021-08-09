@@ -1,0 +1,24 @@
+{
+    "translation": {
+        "unit": "kcal",
+        "sex": {
+            "male": "Male",
+            "female": "Female"
+        },
+        "age": "Age",
+        "height": "Height (cm)",
+        "weight": "Weight (kg)",
+        "activity-levels": {
+            "label": "Whats your activity level?",
+            "sedentary": "Sedentary",
+            "light": "Light",
+            "moderate": "Moderate",
+            "intense": "Intense"
+        },
+        "cta": "Calculate",
+        "bmr": "Your basal metabolic rate is: ",
+        "bmr-plus-activities": "With your activity level, your daily kcal spent is: ",
+        "bmr-lose-weight": "To lose weight, you need to intake: ",
+        "bmr-gain-weight": "To gain weight, you need to intake: "
+    }
+}
