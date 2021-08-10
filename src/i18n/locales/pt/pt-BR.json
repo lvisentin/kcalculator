@@ -1,5 +1,6 @@
 {
     "translation": {
+        "unit": "kcal",
         "sex": {
             "male": "Masculino",
             "female": "Feminino"
@@ -14,6 +15,10 @@
             "moderate": "Moderado",
             "intense": "Intenso"
         },
-        "cta": "Calcular"
+        "cta": "Calcular",
+        "bmr": "Sua taxa metabólica basal é: ",
+        "bmr-plus-activities": "Com seu nível de atividade, seu gasto diário é: ",
+        "bmr-lose-weight": "Para perder peso, você precisa ingerir: ",
+        "bmr-gain-weight": "Para ganhar peso, você precisa ingerir: "
     }
 }
